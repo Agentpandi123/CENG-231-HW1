@@ -1,0 +1,1 @@
+The program initials.c prints the initials of my name.  To do this, I just used printf and printed each one line by line.
