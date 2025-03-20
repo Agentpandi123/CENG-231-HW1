@@ -1,0 +1,24 @@
+Script started on 2023-02-12 17:17:28-08:00
+]0;edilin@WWWSTU-P01:~/CENG_231/hw1[edilin@WWWSTU-P01 hw1]$ gcc initials.c -ansi -Wall -o initials
+]0;edilin@WWWSTU-P01:~/CENG_231/hw1[edilin@WWWSTU-P01 hw1]$ ./initials
+EEEEEEEEEEEEE
+E     E     E
+E     E     E
+E     E     E
+E           E
+
+        YYYYYY
+       Y
+YYYYYYY
+       Y
+        YYYYYY
+
+LLLLLLLLLLLLLL
+L
+L
+L
+L
+]0;edilin@WWWSTU-P01:~/CENG_231/hw1[edilin@WWWSTU-P01 hw1]$ exit
+exit
+
+Script done on 2023-02-12 17:19:07-08:00
